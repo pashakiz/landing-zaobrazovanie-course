@@ -1,9 +1,10 @@
 # landing-zaobrazovanie-course
 
-###html-sourse
+###/html-sourse
 Это чистая вертска сайта
 
-###wordpress
+###/wordpress
 Все файлы сайта на wordpress
 
-
+###/wordpress/u0081082_zaobrazovanie.sql
+бд сайта
