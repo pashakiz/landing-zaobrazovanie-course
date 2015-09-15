@@ -1,7 +1,7 @@
 # landing-zaobrazovanie-course
 
 ###/html-sourse
-Это чистая вертска сайта
+Это чистая вертска сайта (до натяжки на WP)
 
 ###/wordpress
 Все файлы сайта на wordpress
